@@ -1,2 +1,8 @@
 # delta-demo
-this is demo for git&amp;github class
+this is for git&git hub classs.
+
+# teacher
+sharadha khapra
+
+# student
+sandeep yadav
